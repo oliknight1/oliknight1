@@ -12,8 +12,9 @@
 <h3>:raised_hand: &nbsp;About Me </h3>
 
 - :heart: &nbsp; I enjoy working on both the frontend and backned to create stunning user experiences
-- :mortar_board: &nbsp; Graduated in 2022 with a Computing for Web and Mobile degree from Univeristy of Brighton
-- :briefcase: &nbsp; Completed placement year at <a href="https://www.ten4design.co.uk/">Ten4 Design</a> 
+- 🎓 &nbsp; Graduated in 2022 with a Computing for Web and Mobile degree from Univeristy of Brighton
+- 💼 &nbsp; Completed placement year at <a href="https://www.ten4design.co.uk/">Ten4 Design</a>
+- 📖 &nbsp; Currently studying: Framer Motion, Golang
 
 <h3> :computer: &nbsp;Technologies</h3>
 
