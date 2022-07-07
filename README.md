@@ -14,7 +14,7 @@
 - :heart: &nbsp; I enjoy working on both the frontend and backned to create stunning user experiences
 - 🎓 &nbsp; Graduated in 2022 with a Computing for Web and Mobile degree from Univeristy of Brighton
 - 💼 &nbsp; Completed placement year at <a href="https://www.ten4design.co.uk/">Ten4 Design</a>
-- 📖 &nbsp; Currently studying: Framer Motion, Golang
+- 📖 &nbsp; Currently studying: Framer Motion, Golang, Next.JS
 
 <h3> :computer: &nbsp;Technologies</h3>
 
